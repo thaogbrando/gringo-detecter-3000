@@ -17,7 +17,26 @@ export default function GringoRoast() {
     "You probably think speaking louder in English helps us understand better 📢",
     "¿You season your food with... salt? Just salt? Pobrecito... 🧂",
     "I bet your idea of spicy is black pepper on your chicken 🌶️❌",
-    "You definitely clap when the plane lands, don't you? ✈️👏"
+    "You definitely clap when the plane lands, don't you? ✈️👏",
+    "You call it 'Spanish rice' when it's literally just arroz con tomate 🍚😭",
+    "I bet you think 'Old El Paso' seasoning packets are authentic Mexican spices 📦💀",
+    "You probably ask for the 'mild' salsa and still need milk after 🥛🌶️",
+    "Let me guess... you think a quesadilla is just a 'Mexican grilled cheese' 🧀🫓",
+    "You definitely pronounce 'Los Angeles' like 'Loss An-juh-lees' don't you? 🏙️😂",
+    "I know you think Chihuahua is just a dog breed and not a whole state 🐕🇲🇽",
+    "You probably put ranch dressing on EVERYTHING, even your abuela's tamales 🥗💀",
+    "I bet you think 'Speedy Gonzales' is accurate Mexican representation 🐭⚡",
+    "You definitely wear a sombrero to Mexican restaurants, don't you? 🤠🍽️",
+    "Let me guess... you think all Latino music is 'Despacito' 🎵💀",
+    "You probably call every Latino person 'amigo' thinking you're cultured 👨‍🤝‍👨😭",
+    "I bet you think guacamole costs extra because avocados are 'fancy' 🥑💰",
+    "You definitely think Corona with lime is the height of Mexican beer culture 🍺🍋",
+    "You probably call it 'Mexican jumping beans' instead of frijoles saltarines 🫘🦘",
+    "I know you think all Mexican food gives you 'Montezuma's revenge' 🚽💀",
+    "You definitely ask if the water is 'safe to drink' in Cancún 🌊😂",
+    "Let me guess... you think mariachi bands play at every Mexican gathering 🎺🎉",
+    "You probably think Mexican hot chocolate is just regular cocoa with peppers 🌶️☕",
+    "I bet you call it 'Mexican vanilla' like it's some exotic ingredient 🍦✨"
   ];
 
   const gringoFacts = [
