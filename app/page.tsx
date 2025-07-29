@@ -119,15 +119,15 @@ export default function GringoRoast() {
             </h3>
             <div className="space-y-3 sm:space-y-4">
               <div className="bg-blue-100 p-3 sm:p-4 rounded-lg">
-                <p className="font-bold text-gray-800 text-sm sm:text-base">What you say:</p>
+                <p className="font-bold text-slate-800 text-sm sm:text-base">What you say:</p>
                 <p className="text-sm sm:text-base md:text-lg">"I love Mexican food!"</p>
-                <p className="font-bold text-gray-800 mt-2 text-sm sm:text-base">What you mean:</p>
+                <p className="font-bold text-slate-800 mt-2 text-sm sm:text-base">What you mean:</p>
                 <p className="text-sm sm:text-base md:text-lg">"I went to Chipotle once" 💀</p>
               </div>
               <div className="bg-green-100 p-3 sm:p-4 rounded-lg">
-                <p className="font-bold text-gray-800 text-sm sm:text-base">What you say:</p>
+                <p className="font-bold text-slate-800 text-sm sm:text-base">What you say:</p>
                 <p className="text-sm sm:text-base md:text-lg">"I'm basically fluent in Spanish"</p>
-                <p className="font-bold text-gray-800 mt-2 text-sm sm:text-base">Your Spanish:</p>
+                <p className="font-bold text-slate-800 mt-2 text-sm sm:text-base">Your Spanish:</p>
                 <p className="text-sm sm:text-base md:text-lg">"Hola, donde esta la biblioteca?" 📚</p>
               </div>
             </div>
